@@ -9,6 +9,7 @@ public class PrintTenEvenNo {
 				System.out.println(i);
 			}
 		}
+		System.out.println("These are all 10 even no");
 	}
 
 }
